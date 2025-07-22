@@ -55,8 +55,4 @@ npx expo start
 
 ⚡ Built by [Rohit Bansal](https://github.com/ROHITBANSAL65)
 
-```
-
----
-
 
